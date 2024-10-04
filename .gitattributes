@@ -1,0 +1,17 @@
+part_an filter=lfs diff=lfs merge=lfs -text
+part_ab filter=lfs diff=lfs merge=lfs -text
+part_ad filter=lfs diff=lfs merge=lfs -text
+part_ae filter=lfs diff=lfs merge=lfs -text
+part_am filter=lfs diff=lfs merge=lfs -text
+part_ac filter=lfs diff=lfs merge=lfs -text
+part_ak filter=lfs diff=lfs merge=lfs -text
+part_aj filter=lfs diff=lfs merge=lfs -text
+part_ap filter=lfs diff=lfs merge=lfs -text
+part_af filter=lfs diff=lfs merge=lfs -text
+part_ag filter=lfs diff=lfs merge=lfs -text
+part_ah filter=lfs diff=lfs merge=lfs -text
+part_ai filter=lfs diff=lfs merge=lfs -text
+part_aa filter=lfs diff=lfs merge=lfs -text
+part_al filter=lfs diff=lfs merge=lfs -text
+part_ao filter=lfs diff=lfs merge=lfs -text
+one.txt filter=lfs diff=lfs merge=lfs -text
